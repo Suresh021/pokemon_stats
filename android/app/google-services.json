@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122571432441",
+    "project_id": "pokemon-eb8ee",
+    "storage_bucket": "pokemon-eb8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122571432441:android:2f9dcea453ad0d189add28",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm6RmJpHmQkpZxX5unLZyNKuVgzxdY2ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
